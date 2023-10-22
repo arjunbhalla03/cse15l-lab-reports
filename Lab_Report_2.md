@@ -31,7 +31,10 @@
 
 *Path of Public Key*
 
-
+![Private key](LabReport2_publicKey.png)
 
 *Log in without asking for a password*
 ![Private key](LabReport2_login.png)
+
+
+## Part 3
