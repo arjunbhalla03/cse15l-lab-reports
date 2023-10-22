@@ -23,3 +23,5 @@
 <br>
 
 ## Part 2
+
+![Private key](LabReport2_privateKey.png)
