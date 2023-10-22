@@ -1,9 +1,11 @@
 # **Lab Report 2**
 ---
 ## Part 1 
+*Code of StringServer.java*
 ![Code Image](LabReport2_screenshot1.png)
 <br>
 <br>
+*Output after using /add-message?s=Hello*
 ![First screenshot](LabReport2_screenshot2.png)
 <br>
 1. In our code, the function being called currently is handleRequest(URI url).
@@ -12,7 +14,7 @@
 <br>
 <br>
 
-
+*Output after using /add-message?s=How are you*
 ![Second Screenshot](LabReport2_screenshot3.png)
 
 
@@ -31,5 +33,5 @@
 
 
 
-*Log in without asking for password*
-
+*Log in without asking for a password*
+![Private key](LabReport2_login.png)
