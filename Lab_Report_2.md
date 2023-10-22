@@ -38,3 +38,4 @@
 
 
 ## Part 3
+I did not know that we could run local hosts just through Java. I had never done something like this before and was caught by surprise by how simple it really is. I also did not know that we would be using RSA to have our login credentials saved to different devices. RSA is something I learned about last year but I had never seen it actually used in practice till now which was very interesting.
