@@ -20,3 +20,9 @@
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
+
+*Output of both tests*
+
+
+
+![Code Image](Lab-report-3-output.png)
