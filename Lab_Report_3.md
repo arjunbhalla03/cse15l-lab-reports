@@ -51,3 +51,6 @@ static void reverseInPlace(int[] arr) {
 ```
 
 Changing the function actually switches the values on both halfs of the array. before hand, it was just swapping positions regardless and would mess up the output that we desired. By only looping through the first half, we make sure we are not swapping the position of values twice therefore confirming they are in the correct position.
+
+
+## Part 2 - Research Facilities
