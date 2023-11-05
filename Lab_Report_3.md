@@ -1257,3 +1257,8 @@ $ find -mindepth 3
 ```
 
 We can use find -maxdepth/-mindepth to find files or directories that have either a maximum depth or minimum depth in our file path. We can use this to exclude certain levels of file paths while looking for different files and directories.
+
+
+## Citations
+
+I used Chat GPT to research the coomand-line options for the find linux command. I typed in "What are find command line arguments". It provided me with the options that I used for my lab and showed me the correct syntax of each option. I then applied them to the technical file and created my own examples of use for each of these commands. 
