@@ -71,4 +71,12 @@ Changes the field from index1 to index2.
 ```
 Exit and save the changes made to the file.
 
-## Step 8 - Use Vim and make changes
+## Step 8 - Re-run Tests
+![Code Image](lab-report-4-fixed.png)
+
+```
+bash test.sh
+```
+Re-running the tests to prove that the code has been edited correctly.
+
+## Step 9 - Commiting and Pushing to Github
