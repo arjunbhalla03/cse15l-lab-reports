@@ -24,3 +24,15 @@ git clone git@github.com:arjunbhalla03/lab7.git
 Clone the repository
 
 ## Step 6 - Run the Tests
+
+![Code Image](lab-report-4-runtests.png)
+
+```
+cd lab7 <enter>
+```
+make the working directory lab7
+
+```
+bash test.sh <enter>
+```
+Run the JUnit tests scripts inside test.sh
