@@ -4,3 +4,6 @@
 
 ![Code Image](lab-report-4-signinsc.png)
 
+```
+ssh cs15lfa23du@ieng6.ucsd.edu
+```
