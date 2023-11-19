@@ -30,6 +30,10 @@ Clone the repository
 ```
 cd lab7 <enter>
 ```
+
+## Step 7 - Use Vim and make changes
+
+
 make the working directory lab7
 
 ```
