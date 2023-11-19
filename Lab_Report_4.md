@@ -5,8 +5,22 @@
 ![Code Image](lab-report-4-signinsc.png)
 
 ```
-ssh cs15lfa23du@ieng6.ucsd.edu
+ssh cs15lfa23du@ieng6.ucsd.edu <enter>
 ```
+Sign into ssh
 
 
 ## Step 5 - Cloning into ssh
+
+![Code Image](lab-report-4-clone.png)
+```
+rm -r -f lab7 <enter>
+```
+Delete the previously saved repository
+
+```
+git clone git@github.com:arjunbhalla03/lab7.git
+```
+Clone the repository
+
+## Step 6 - Run the Tests
