@@ -7,3 +7,6 @@
 ```
 ssh cs15lfa23du@ieng6.ucsd.edu
 ```
+
+
+## Step 5 - Cloning into ssh
