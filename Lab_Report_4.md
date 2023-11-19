@@ -31,12 +31,44 @@ Clone the repository
 cd lab7 <enter>
 ```
 
-## Step 7 - Use Vim and make changes
-
-
 make the working directory lab7
 
 ```
 bash test.sh <enter>
 ```
 Run the JUnit tests scripts inside test.sh
+
+
+## Step 7 - Use Vim and make changes
+
+![Code Image](lab-report-4-vim.png)
+
+```
+vim ListExamples.java <enter>
+```
+Enter the file to edit it
+
+```
+<up> <up> <up> <up> <up> <right> <right> <right> <right> <right> <right> <right> <right> <right> 
+```
+Put the cursor into the correct position to make the change.
+
+```
+"i"
+```
+Enter insert mode to make the change
+
+```
+<backspace>
+"2"
+```
+Changes the field from index1 to index2.
+
+```
+<esc>
+:w <enter>
+:q! <enter>
+```
+Exit and save the changes made to the file.
+
+## Step 8 - Use Vim and make changes
