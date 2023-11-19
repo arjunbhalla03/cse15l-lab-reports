@@ -80,3 +80,12 @@ bash test.sh
 Re-running the tests to prove that the code has been edited correctly.
 
 ## Step 9 - Commiting and Pushing to Github
+
+![Code Image](lab-report-4-git.png)
+
+```
+git add ListExamples.java <enter>
+git commit -m "fixes to ListExamples.java" <enter>
+git push <enter>
+```
+Completing the three required stages of making a push to a Github repository.
