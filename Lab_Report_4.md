@@ -49,7 +49,7 @@ vim ListExamples.java <enter>
 Enter the file to edit it
 
 ```
-<up> <up> <up> <up> <up> <right> <right> <right> <right> <right> <right> <right> <right> <right> 
+<up> <up> <up> <up> <up> <CTRL-e> <left>
 ```
 Put the cursor into the correct position to make the change.
 
