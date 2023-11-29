@@ -66,8 +66,7 @@ Changes the field from index1 to index2.
 
 ```
 <esc>
-:w <enter>
-:q! <enter>
+:wq! <enter>
 ```
 Exit and save the changes made to the file.
 
@@ -88,4 +87,4 @@ git add ListExamples.java <enter>
 git commit -m "fixes to ListExamples.java" <enter>
 git push <enter>
 ```
-Completing the three required stages of making a push to a Github repository.
+Completing the three required stages of making a push to a Github repository. Add ListExamples.java to the git stage. Commit the changes to be official and also be ready to be sent to the remote repository. Finally, we push these changes to the remote repository making sure that we have officially made these changes in GitHub.
