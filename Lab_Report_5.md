@@ -14,12 +14,13 @@ This was the output I received:
 I think that there may be something wrong with my actual loop and the switching but I am not too sure. Any help would be great.
 
 TA Response:
-You should look at what values are being switched. As this function reuqires you to make the swap within the array, make sure that the swap is happening correctly. Also look for how long the loop is iterating for.
+You should look at what values are being switched. As this function reuqires you to make the swap within the array, make sure that the swap is happening correctly. Also look for how long the loop is iterating for. The other error was because our loop was looping for the entire array. By doing so, we will end up outside the array index and will not be swapping the values correctly. To fix this, we need to set our loop to only work for the first half of our array. That way all the values are correctly swapped.
 
 Fixed Output: 
 
+![Code Image](lab-report-5-fixed-output.png)
 
-
+There were two bugs in our code. The first bug was that the array was only swapping values one way. The other value was getting lost so we needed to make sure we were storing that value somewhere and using it to complete the swap.
 
 
 ## Part 2 - Reflection
