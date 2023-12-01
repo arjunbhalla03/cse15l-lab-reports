@@ -1,6 +1,9 @@
 # **Lab Report 5**
 ---
 ## Part 1 - Debugging Scenario
+Student Message:
+Hi there! I was working on Lab 3 and I ran into an error when working on ArrayExamples.java. This was the test I ran:
+
 
 
 
