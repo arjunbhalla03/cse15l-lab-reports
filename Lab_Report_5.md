@@ -14,7 +14,11 @@ This was the output I received:
 I think that there may be something wrong with my actual loop and the switching but I am not too sure. Any help would be great.
 
 TA Response:
-You should look at what values are being switched. As this function reuqires you to make the swap within the array, make sure that the swap is happening correctly.
+You should look at what values are being switched. As this function reuqires you to make the swap within the array, make sure that the swap is happening correctly. Also look for how long the loop is iterating for.
+
+Fixed Output: 
+
+
 
 
 
