@@ -20,7 +20,20 @@ Fixed Output:
 
 ![Code Image](lab-report-5-fixed-output.png)
 
-There were two bugs in our code. The first bug was that the array was only swapping values one way. The other value was getting lost so we needed to make sure we were storing that value somewhere and using it to complete the swap.
+There were two bugs in our code. The first bug was that the array was only swapping values one way. The other value was getting lost so we needed to make sure we were storing that value somewhere and using it to complete the swap. The other bug that was present was that the loop was iterating for the entire array. It should only loop for half of it as otherwise we will just be re-swapping values and returning the array back to its initial state.
+
+FilePath:
+![Code Image](lab-report-5-filepath.png)
+
+Initial Code:
+![Code Image](lab-report-5-wrongcode.png)
+
+
+Fixed Code:
+![Code Image](lab-report-5-fixedcode.png)
+
+Bash Script being used for the input:
+![Code Image](lab-report-5-bashscript.png)
 
 
 ## Part 2 - Reflection
